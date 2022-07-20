@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle Agen-judi-slot-online-pragmatic-gacor",
-        "command": "Agen-judi-slot-online-pragmatic-gacor:toggle"
+        "label": "Toggle agen-judi-slot-online-pragmatic-gacor",
+        "command": agen-judi-slot-online-pragmatic-gacor:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Agen-judi-slot-online-pragmatic-gacor",
+          "label": "agen-judi-slot-online-pragmatic-gacor",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "Agen-judi-slot-online-pragmatic-gacor:toggle"
+              "command": "agen-judi-slot-online-pragmatic-gacor:toggle"
             }
           ]
         }
