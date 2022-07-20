@@ -1,0 +1,21 @@
+{
+  "name": "Agen-judi-slot-online-pragmatic-gacor/",
+  "main": "./lib/Agen-judi-slot-online-pragmatic-gacor",
+  "version": "0.1.0",
+  "description": "Kesempatan ini kami mengulas mengenai tipe permainan yang terkenal yakni game Slot online olympus di situs Helompo.",
+  "keywords": [
+    "slot online",
+    "slot olympus",
+    "olympus slot",
+    "slot online olympus"
+  ],
+  "activationCommands": {
+    "atom-workspace": "Agen-judi-slot-online-pragmatic-gacor:toggle"
+  },
+  "repository": "https://github.com/reyspeed/Agen-judi-slot-online-pragmatic-gacor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
